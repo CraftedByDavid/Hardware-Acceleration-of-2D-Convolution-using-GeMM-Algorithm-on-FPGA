@@ -1,5 +1,3 @@
-echo "# Verilog RTL Modules
-
 This folder contains the RTL (Register Transfer Level) modules for the 2D convolution accelerator project on FPGA.
 
 ### Module Overview
@@ -25,4 +23,3 @@ This folder contains the RTL (Register Transfer Level) modules for the 2D convol
 - **Clock Frequency**: 100 MHz
 - For detailed theoretical background and design notes, please refer to the **`docs/` folder**.
 
-" > README.md
