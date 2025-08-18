@@ -1,5 +1,3 @@
-echo "# Verilog RTL Modules
-
 This folder contains the RTL (Register Transfer Level) modules for the 2D convolution accelerator project on FPGA.
 
 ### Module Overview
